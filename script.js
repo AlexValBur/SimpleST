@@ -111,7 +111,7 @@ for (let i=0; i>j.length; i++) {
 
 const num34 = [1,2,3,4,5,56,78];
 let i = 0;
-hile (i < num34.length) {
+while (i < num34.length) {
         let = newnum = i * num34[i]
         i++
         arr.push(newnum)
